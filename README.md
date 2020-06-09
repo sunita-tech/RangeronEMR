@@ -1,4 +1,6 @@
-# RangeronEMR
+# Ranger On EMR 
+
+Purpose : To have audit with multi tenant environment in EMR
 
 How to Set up Ranger on EMR
 
